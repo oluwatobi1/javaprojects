@@ -1,6 +1,6 @@
 package linkedlist;
 
-import dsa.DoubleLinkedList;
+import doublelinkedlist.DoubleLinkedList;
 
 public class Main {
     public static void main(String[] args) {

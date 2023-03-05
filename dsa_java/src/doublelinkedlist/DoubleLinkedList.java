@@ -1,6 +1,4 @@
-package dsa;
-
-import linkedlist.LinkedList;
+package doublelinkedlist;
 
 public class DoubleLinkedList {
     private Node head;
